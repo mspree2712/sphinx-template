@@ -1,7 +1,7 @@
 CIS 320 Research Project
 ========================
 
-Mason Spree Research Project
+Mason Spree Research Project - hello
 
 I'm interested in VS Code but will probably do Angular/React for the experience.
 
