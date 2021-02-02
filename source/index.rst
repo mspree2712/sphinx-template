@@ -1,7 +1,9 @@
-Sample Sphinx Project
-=====================
+CIS 320 Research Project
+========================
 
-Fill in  this text with your own intro text
+Mason Spree Research Project
+
+I'm interested in VS Code but will probably do Angular/React for the experience.
 
 .. toctree::
    :maxdepth: 1
@@ -9,5 +11,6 @@ Fill in  this text with your own intro text
 
    chapter1/index
    chapter2/index
+   bibliography/index
 
 
