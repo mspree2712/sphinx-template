@@ -1,7 +1,7 @@
 ReactJS Paper Outline
 =====================
 **Thesis:** Deep Dive into React and it's history compared to how and where it
-            is being used today
+is being used today
 
 * I - Where was React created
 
