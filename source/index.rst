@@ -11,6 +11,7 @@ I will be doing ReactJS.
 
    chapter1/index
    chapter2/index
+   outline/index
    bibliography/index
 
 
